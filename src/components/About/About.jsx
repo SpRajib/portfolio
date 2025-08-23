@@ -1,7 +1,8 @@
 import React from "react";
-import { ReactTypingEffect } from "react-typing-effect";
+// import { ReactTypingEffect } from "react-typing-effect";
 import { Typewriter } from "react-simple-typewriter";
 import Tilt from "react-parallax-tilt";
+// import Tilt from "react-parallax-tilt";
 import profileImage from "../../assets/profile.png";
 
 const About = () => {
