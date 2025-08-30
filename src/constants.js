@@ -155,7 +155,7 @@ export const SkillsInfo = [
       date: "Apr 2018 - March 2020",
       grade: "54.33%",
       desc: "I completed my class 12 education from Saraswati Gyan Mandir, Bhubaneswar under the CHSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Biology.",
-      degree: "CBSE(XII) - PCM with Biology",
+      degree: "CHSE(XII) - PCM with Biology",
     },
     {
       id: 3,
