@@ -135,7 +135,7 @@ export const SkillsInfo = [
       img: soaLogo,
       school: "ITER,SOA University, Bhubaneswar",
       date: "Sept 2023 - July 2025",
-      grade: "7.81 CGPA",
+      grade: "7.14 CGPA",
       desc: "I have completed my Master's degree (MCA) in Computer Applications from Siksha 'O' Anusandhan University, Bhubaneswar. During my time at ITER, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at ITER, SOA University has been instrumental in shaping my technical abilities and professional growth.",
       degree: "Master of Computer Applications - MCA",
     },
